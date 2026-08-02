@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Olá, eu sou Igor do Prado Machado
 
-<!--
-**BFRIGOR7/BFRIGOR7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Estudante do **5º período de Gestão da Tecnologia da Informação**, apaixonado por tecnologia, análise de dados e aprendizado contínuo.
 
-Here are some ideas to get you started:
+Atualmente desenvolvo projetos utilizando **SQL, MySQL, Power BI e Python**, com foco na construção de soluções baseadas em dados e na criação de um portfólio profissional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Além da área de tecnologia, também estou construindo minha carreira no setor industrial e offshore, investindo continuamente em qualificação e desenvolvimento profissional.
+
+---
+
+## 🚀 Tecnologias
+
+*Em construção...*
+
+---
+
+## 📂 Projetos em Destaque
+
+*Em construção...*
+
+---
+
+## 🌊 Jornada Offshore
+
+*Em construção...*
+
+---
+
+## 📈 Roadmap
+
+*Em construção...*
+
+---
+
+## 📫 Contato
+
+📧 igorprado1515@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/profissionaligorpm7
