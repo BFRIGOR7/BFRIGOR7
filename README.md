@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Banner Igor do Prado Machado" width="100%">
+</p>
+
 # 👋 Olá, eu sou Igor do Prado Machado
 
 🎯 Estudante do **5º período de Gestão da Tecnologia da Informação**, apaixonado por tecnologia, análise de dados e aprendizado contínuo.
