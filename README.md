@@ -4,11 +4,17 @@
 
 # 👋 Olá, eu sou Igor do Prado Machado
 
-🎯 Estudante do **5º período de Gestão da Tecnologia da Informação**, apaixonado por tecnologia, análise de dados e aprendizado contínuo.
+🎯 Em formação em Análise de Dados  
+💻 Estudante de Tecnologia da Informação  
+📊 Construindo projetos reais com SQL, Python, Power BI e Excel
 
-Atualmente desenvolvo projetos utilizando **SQL, MySQL, Power BI e Python**, com foco na construção de soluções baseadas em dados e na criação de um portfólio profissional.
+---
 
-Além da área de tecnologia, também estou construindo minha carreira no setor industrial e offshore, investindo continuamente em qualificação e desenvolvimento profissional.
+## 👨‍💻 Sobre mim
+
+Sou estudante de Tecnologia da Informação com foco em Análise de Dados.
+
+Minha trajetória une experiência prática no setor industrial com uma formação contínua em tecnologia e análise de dados, buscando transformar informações em decisões através de SQL, Python e Power BI.
 
 ---
 
@@ -25,27 +31,41 @@ Além da área de tecnologia, também estou construindo minha carreira no setor 
 
 ---
 
-## 📂 Projetos em Destaque
+## 📂 Projetos
 
-### 📊 Plano B Analytics
+### 🥔 Plano B Analytics
+Projeto de Análise de Dados desenvolvido para simular um ambiente real de gestão de estoque, compras e vendas utilizando MySQL.
 
-Projeto de **Análise de Dados** desenvolvido para simular um ambiente real de gestão de estoque, compras e vendas utilizando **MySQL**.
-
-**Objetivos do projeto:**
-- Modelagem de banco de dados relacional.
-- Consultas SQL para análise de dados.
-- Views analíticas.
-- Procedures e Triggers.
-- Documentação completa do projeto.
+**Objetivos:**
+- Modelagem de banco de dados relacional
+- Consultas SQL para análise de dados
+- Views analíticas
+- Procedures e Triggers
+- Documentação completa
 
 **Tecnologias:**
 - MySQL
 - SQL
 - Git & GitHub
 
-**Status:** 🟢 Em desenvolvimento
+Status: 🟢 Em desenvolvimento
 
-➡️ Repositório: https://github.com/BFRIGOR7/Plano-B-Analytics
+🔗 Repositório:
+https://github.com/BFRIGOR7/Plano-B-Analytics
+
+---
+
+### ₿ Bitcoin Analytics
+Estudo de dados históricos do Bitcoin com foco em análise, tratamento e visualização.
+
+Status: ⏳ Planejado
+
+---
+
+### 🇧🇷 Brasil em Dados
+Exploração de dados públicos brasileiros utilizando ferramentas de análise.
+
+Status: ⏳ Planejado
 
 ---
 
@@ -82,10 +102,13 @@ Atualmente estou construindo minha carreira no setor **Industrial e Offshore**, 
 
 ## 📅 Atualmente
 
-- 🎓 Cursando o **5º período de Gestão da Tecnologia da Informação**
-- 🗄️ Desenvolvendo o projeto **Plano B Analytics** em MySQL
-- 📊 Aprimorando conhecimentos em **SQL, Power BI e Python**
-- 🌊 Concluindo a documentação para atuação no setor offshore
+🚀 Atualmente estudando
+
+- SQL para análise de dados
+- Python para Data Analysis
+- Power BI
+- Estatística aplicada
+- Git e GitHub
 
 ### 📊 Data Analytics
 
@@ -121,3 +144,20 @@ Atualmente estou construindo minha carreira no setor **Industrial e Offshore**, 
 📧 igorprado1515@gmail.com
 
 💼 LinkedIn: www.linkedin.com/in/profissionaligorpm7
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BFRIGOR7&show_icons=true&theme=transparent"/>
+</p>
+
+
+---
+
+## 🏆 Conquistas
+
+- Desenvolvimento do primeiro projeto completo de análise de dados utilizando MySQL
+- Criação de banco de dados relacional com modelagem, views analíticas e consultas SQL
+- Construção de portfólio técnico unindo experiência industrial e tecnologia
