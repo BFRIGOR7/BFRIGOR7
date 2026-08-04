@@ -33,7 +33,7 @@ Minha trajetória une experiência prática no setor industrial com uma formaç�
 
 ## 📂 Projetos
 
-### 🥔 Plano B Analytics
+### 📊 Plano B Analytics
 Projeto de Análise de Dados desenvolvido para simular um ambiente real de gestão de estoque, compras e vendas utilizando MySQL.
 
 **Objetivos:**
