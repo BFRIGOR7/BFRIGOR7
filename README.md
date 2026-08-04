@@ -1,6 +1,19 @@
 <p align="center">
-  <img src="banner.png" alt="Banner Igor do Prado Machado" width="100%">
+  <img src="banner.png" width="100%">
 </p>
+
+<h1 align="center">
+Olá, eu sou Igor do Prado Machado 👋
+</h1>
+
+<h3 align="center">
+Data Analytics • SQL • Python • Power BI
+</h3>
+
+<p align="center">
+Transformando dados em decisões.
+</p>
+
 
 # 👋 Olá, eu sou Igor do Prado Machado
 
@@ -12,9 +25,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Tecnologia da Informação com foco em Análise de Dados.
-
-Minha trajetória une experiência prática no setor industrial com uma formação contínua em tecnologia e análise de dados, buscando transformar informações em decisões através de SQL, Python e Power BI.
+Minha experiência no setor industrial me proporcionou uma base sólida em processos, segurança e resolução de problemas. Atualmente direciono essa vivência para a área de Data Analytics, desenvolvendo projetos com SQL, modelagem de bancos de dados, Python e Power BI para transformar dados em informações úteis para a tomada de decisão.
 
 ---
 
@@ -33,22 +44,35 @@ Minha trajetória une experiência prática no setor industrial com uma formaç�
 
 ## 📂 Projetos
 
-### 📊 Plano B Analytics
-Projeto de Análise de Dados desenvolvido para simular um ambiente real de gestão de estoque, compras e vendas utilizando MySQL.
+## 📊 Plano B Analytics
 
-**Objetivos:**
-- Modelagem de banco de dados relacional
-- Consultas SQL para análise de dados
-- Views analíticas
-- Procedures e Triggers
-- Documentação completa
+Sistema de análise de dados desenvolvido para simular um ambiente real de Business Intelligence utilizando MySQL.
 
-**Tecnologias:**
+### 🎯 Objetivo
+Transformar dados de vendas e estoque em informações estratégicas para apoiar a tomada de decisão.
+
+### 🛠 Tecnologias
 - MySQL
 - SQL
 - Git & GitHub
+- Power BI (em desenvolvimento)
 
-Status: 🟢 Em desenvolvimento
+### 📌 Funcionalidades
+- ✅ Modelagem de banco de dados relacional
+- ✅ Controle de produtos, compras e vendas
+- ✅ Views analíticas
+- 🟡 Stored Procedures
+- 🟡 Triggers
+- ⏳ Dashboard em Power BI
+
+### 📈 Indicadores
+- Ranking de produtos mais vendidos
+- Receita total
+- Ticket médio
+- Controle de estoque
+- Produtos sem movimentação
+
+**Status:** 🟢 Em desenvolvimento
 
 🔗 Repositório:
 https://github.com/BFRIGOR7/Plano-B-Analytics
@@ -56,7 +80,7 @@ https://github.com/BFRIGOR7/Plano-B-Analytics
 ---
 
 ### ₿ Bitcoin Analytics
-Estudo de dados históricos do Bitcoin com foco em análise, tratamento e visualização.
+Projeto para análise exploratória de dados históricos do Bitcoin, utilizando Python para tratamento dos dados e Power BI para visualização.
 
 Status: ⏳ Planejado
 
@@ -64,6 +88,7 @@ Status: ⏳ Planejado
 
 ### 🇧🇷 Brasil em Dados
 Exploração de dados públicos brasileiros utilizando ferramentas de análise.
+Projeto voltado à análise de indicadores públicos brasileiros, explorando dados governamentais para gerar insights e dashboards.
 
 Status: ⏳ Planejado
 
